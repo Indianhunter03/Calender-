@@ -1,5 +1,4 @@
 # Calender-
-# Live Demo -https://62ec201a6dd43621bb973575--imaginative-daifuku-badc0f.netlify.app/
  
 
 ## Table of contents
@@ -29,12 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Take a look at a screenshot of the app here](https://github.com/Indianhunter03/IP-Address-Tracker/blob/0be704a31367e2301fb7eba441ba696bf88b0b7a/images/Screenshot%20Demo.jpg)
+![Take a look at a screenshot of the app here](https://github.com/Indianhunter03/Calender-/blob/3194454a7fac2eb4c1c34a9372dd9ff192659840/calender.png)
 
 ### Links
 
 - Solution URL: [Take a look at here](https://github.com/Indianhunter03/IP-Address-Tracker/)
-- Live Site URL: [Add live site URL here](https://62e3826bd2846950901aae5a--whimsical-alfajores-2ebca4.netlify.app/)
+- Live Site URL: [Add live site URL here](https://62ec201a6dd43621bb973575--imaginative-daifuku-badc0f.netlify.app/)
+
 
 ## My process
 
