@@ -1,10 +1,9 @@
 # Calender-
  
-
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [Project Description](#Project-Description)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -17,14 +16,9 @@
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for each page depending on their device's screen size
-- See hover states for all interactive elements on the page
-- See their own IP address on the map on the initial page load
-- Search for any IP addresses or domains and see the key information and location
+### Project Description:
+The lightest Javascript calendar out there, without any dependency (no jQuery). This is a work in progress, but it is ready to be used in production too.
+It is a Simple Calender made with HTML , CSS , Javascript.
 
 ### Screenshot
 
@@ -43,35 +37,24 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
-- map API by LeafletJs
-- IP Geolocation API by abstract 
+- JAVAScript
+- DOM
+- JAVAScript methods
+- Event Listeners
 
 
 ### What I learned
 
-I learned a lot while building this app. I learned how to interact with remote API servers and how to populate the UI with incoming responses from servers. I have used a different API for tracking IP's than what was recommended by Frontend mentors. The API I used allows upto 10000 calls a month as opposed to only 1000 calls on the recommended one. Of course, I'm not sutisfied by this change for the API i used is less accurate when revealing locations.     
+I learned a lot while building this app. I learned how to interact with Document object Model, inside it i learnd about date method. How to add eventlisteners and filter methods impliment in our building website.    
 
-### Continued development
-## Room of Improvment :
-There are various improvment that i will add on for further improvment like adding Java Script into it, make it dynamic , and also i will api or use data base for collecting data from the users.
-I hope to return to this app to make some search engine optimization to the code so users can easily discover it.
+### Room of Improvment :
+There are various improvment that i will add on for further improvment like adding some more Java Script into it,and also i will api or use data base for collecting data from the users. 
  
-### Useful resources
+### Acknowledgments
 
-- [Resource 1](https://stackoverflow.com) 
-- [Resource 2](https://coursera.org)
-- [Resource 3](https://www.youtube.com/c/CodeWithHarryhttps://www.youtube.com/c/CodeWithHarry) 
+As always my deepest gratitudes go to: Newton SChool,W3schools.
 
-
-
-## Acknowledgments
-
-As always my deepest gratitudes go to:
-
-Newton SChool,W3schools.
-
-## Contact :
+### Contact :
 Name : Aditya Giri
 Email : adityakumargoswami03@gmail.com
 
